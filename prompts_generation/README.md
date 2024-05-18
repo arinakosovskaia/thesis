@@ -15,6 +15,7 @@ Before running the `main.py` script, make sure you have completed the following 
      ```python
      API_KEY = ""
      ```
+     
    - Replace the empty quotes `""` with your personal API key:
      ```python
      API_KEY = "your_api_key_here"
@@ -22,12 +23,14 @@ Before running the `main.py` script, make sure you have completed the following 
 
 4. **Install Dependencies**:
    - Before running the script, install all required Python packages by running the following command:
+     
      ```bash
      pip install -r requirements.txt
      ```
 
 5. **Run the Script**:
    - To process files from Taiga, use the command:
+     
      ```bash
      python main.py --taiga
      ```
