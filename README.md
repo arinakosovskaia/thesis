@@ -1,6 +1,6 @@
 # thesis
  
-This repository contains the code for my Bachelor's thesis.
+This repository contains the code and data for my Bachelor's thesis.
 
 ##  Structure
 
